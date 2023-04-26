@@ -4,8 +4,8 @@ Dados do aluno
 -Profissão:Pintor Carros automotivos
 -Cidade:Serra
 -O que faz nas horas vaga:Pescar
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Feedback sobre o curso Qualidade de Software: Optimo 
+-Feedback sobre a plataforma de estudo da EBAC: Bom 
 
 Obrigado!!!
 
